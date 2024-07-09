@@ -2,7 +2,7 @@
 
 This is my personal project, in which I aim to send a message on WhatsApp automatically.
 
-The api that I used was Green API: https://green-api.com/en .
+The api that I used was Green API: https://green-api.com/en 
 <br>
 You can find the documentation on: https://green-api.com/en/docs/
 
